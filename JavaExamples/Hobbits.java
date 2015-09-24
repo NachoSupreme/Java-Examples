@@ -1,0 +1,2 @@
+class Hobbits {
+String name;}
